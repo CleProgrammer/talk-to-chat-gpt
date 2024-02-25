@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/talk-to-chat-gpt/static/css/main.3cadf846.css",
+    "main.js": "/talk-to-chat-gpt/static/js/main.a8ea0579.js",
+    "static/js/787.ca25a7b9.chunk.js": "/talk-to-chat-gpt/static/js/787.ca25a7b9.chunk.js",
+    "static/media/modalvoice.jpg": "/talk-to-chat-gpt/static/media/modalvoice.0ce95571d05fc64ee36a.jpg",
+    "static/media/modalchat.jpg": "/talk-to-chat-gpt/static/media/modalchat.aabc7b5e5ca20f03973d.jpg",
+    "static/media/robo-falando.webp": "/talk-to-chat-gpt/static/media/robo-falando.b509e3b5874e25665022.webp",
+    "static/media/sendmessage.png": "/talk-to-chat-gpt/static/media/sendmessage.6c32880bc7891a496777.png",
+    "static/media/speak-finish.mp3": "/talk-to-chat-gpt/static/media/speak-finish.1076d4445779dde52cf2.mp3",
+    "index.html": "/talk-to-chat-gpt/index.html",
+    "main.3cadf846.css.map": "/talk-to-chat-gpt/static/css/main.3cadf846.css.map",
+    "main.a8ea0579.js.map": "/talk-to-chat-gpt/static/js/main.a8ea0579.js.map",
+    "787.ca25a7b9.chunk.js.map": "/talk-to-chat-gpt/static/js/787.ca25a7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cadf846.css",
+    "static/js/main.a8ea0579.js"
+  ]
+}

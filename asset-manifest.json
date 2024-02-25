@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/talk-to-chat-gpt/static/css/main.3cadf846.css",
-    "main.js": "/talk-to-chat-gpt/static/js/main.a8ea0579.js",
+    "main.js": "/talk-to-chat-gpt/static/js/main.3960b15d.js",
     "static/js/787.ca25a7b9.chunk.js": "/talk-to-chat-gpt/static/js/787.ca25a7b9.chunk.js",
     "static/media/modalvoice.jpg": "/talk-to-chat-gpt/static/media/modalvoice.0ce95571d05fc64ee36a.jpg",
     "static/media/modalchat.jpg": "/talk-to-chat-gpt/static/media/modalchat.aabc7b5e5ca20f03973d.jpg",
@@ -10,11 +10,11 @@
     "static/media/speak-finish.mp3": "/talk-to-chat-gpt/static/media/speak-finish.1076d4445779dde52cf2.mp3",
     "index.html": "/talk-to-chat-gpt/index.html",
     "main.3cadf846.css.map": "/talk-to-chat-gpt/static/css/main.3cadf846.css.map",
-    "main.a8ea0579.js.map": "/talk-to-chat-gpt/static/js/main.a8ea0579.js.map",
+    "main.3960b15d.js.map": "/talk-to-chat-gpt/static/js/main.3960b15d.js.map",
     "787.ca25a7b9.chunk.js.map": "/talk-to-chat-gpt/static/js/787.ca25a7b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cadf846.css",
-    "static/js/main.a8ea0579.js"
+    "static/js/main.3960b15d.js"
   ]
 }

@@ -14,7 +14,7 @@ function App() {
   let timeOutBot: any = []
   let checkIfSpoke:any = []
 
-  const openai = new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true })
+  const openai = new OpenAI({ apiKey: '', dangerouslyAllowBrowser: true })
 
   //Escolher entre conversar por texto e conversar por voz
   const closeMainModal = (e:any) => {
